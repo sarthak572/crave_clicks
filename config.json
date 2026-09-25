@@ -1,0 +1,10 @@
+{
+  "cafe_name": "Crave Clicks Cafe",
+  "receipt_footer": "",
+  "whatsapp": {
+    "enabled": true,
+    "country_code": "91",
+    "auto_ack": true,
+    "poll_seconds": 5.0
+  }
+}

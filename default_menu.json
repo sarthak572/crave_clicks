@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "items": [
+    { "category": "Loaded Fries (Veg)", "name": "Salted Fries", "price": 80.0 },
+    { "category": "Loaded Fries (Veg)", "name": "Peri Peri Fries", "price": 110.0 },
+    { "category": "Loaded Fries (Veg)", "name": "Cheesy Fries", "price": 110.0 },
+    { "category": "Loaded Fries (Veg)", "name": "Mexican Fries", "price": 120.0 },
+    { "category": "Loaded Fries (Veg)", "name": "Cheesy Mushroom Fries", "price": 130.0 },
+    { "category": "Loaded Fries (Veg)", "name": "Paneer Makhni Fries", "price": 140.0 },
+
+    { "category": "Loaded Fries (Non Veg)", "name": "Crunchy Chicken Fries", "price": 130.0 },
+    { "category": "Loaded Fries (Non Veg)", "name": "Chicken Makhni Fries", "price": 140.0 },
+    { "category": "Loaded Fries (Non Veg)", "name": "Pulled BBQ Chicken Fries", "price": 150.0 },
+
+    { "category": "Burgers (Veg)", "name": "Aloo Tikki Burger", "price": 60.0 },
+    { "category": "Burgers (Veg)", "name": "Crispy Cheese Burger", "price": 90.0 },
+    { "category": "Burgers (Veg)", "name": "Veggie Delight Burger", "price": 100.0 },
+    { "category": "Burgers (Veg)", "name": "Grilled Paneer Burger", "price": 120.0 },
+    { "category": "Burgers (Veg)", "name": "Spicy Paneer Burger", "price": 120.0 },
+    { "category": "Burgers (Veg)", "name": "Ultimate Snacker Burger", "price": 120.0 },
+    { "category": "Burgers (Veg)", "name": "Paneer Makhni Burger", "price": 130.0 },
+
+    { "category": "Burgers (Non Veg)", "name": "Chicken Steak Burger", "price": 90.0 },
+    { "category": "Burgers (Non Veg)", "name": "Egg Burger", "price": 90.0 },
+    { "category": "Burgers (Non Veg)", "name": "BBQ Fried Burger", "price": 130.0 },
+    { "category": "Burgers (Non Veg)", "name": "Grilled Chicken Burger", "price": 130.0 },
+    { "category": "Burgers (Non Veg)", "name": "Spicy Chicken Burger", "price": 140.0 },
+    { "category": "Burgers (Non Veg)", "name": "Chicken Makhni Burger", "price": 140.0 },
+
+    { "category": "Sandwich (Veg)", "name": "Cheesy Veggie Sandwich", "price": 110.0 },
+    { "category": "Sandwich (Veg)", "name": "Aloo Tikki Sandwich", "price": 100.0 },
+    { "category": "Sandwich (Veg)", "name": "Paneer Paprika Sandwich", "price": 130.0 },
+    { "category": "Sandwich (Veg)", "name": "Jumbo Crispy Slow Sandwich", "price": 160.0 },
+    { "category": "Sandwich (Veg)", "name": "Pizza Cheese Sandwich", "price": 160.0 },
+    { "category": "Sandwich (Veg)", "name": "Paneer Tikka Sandwich", "price": 150.0 },
+
+    { "category": "Sandwich (Non Veg)", "name": "Tandoori Chicken Sandwich", "price": 150.0 },
+    { "category": "Sandwich (Non Veg)", "name": "Chicken Tikka Sandwich", "price": 140.0 },
+    { "category": "Sandwich (Non Veg)", "name": "Pulled Ckicken Sandwich", "price": 150.0 },
+    { "category": "Sandwich (Non Veg)", "name": "Seekh Pizza Cheese Sandwich", "price": 170.0 },
+    { "category": "Sandwich (Non Veg)", "name": "Chicken Pizza Cheese Sandwich", "price": 180.0 },
+    { "category": "Sandwich (Non Veg)", "name": "Jumbo Chicken Slow Sandwich", "price": 180.0 },
+
+    { "category": "Wrap (Veg)", "name": "Aloo Tikki Wrap", "price": 80.0 },
+    { "category": "Wrap (Veg)", "name": "Grilled Paneer Wrap", "price": 110.0 },
+    { "category": "Wrap (Veg)", "name": "Spicy Paneer Wrap", "price": 120.0 },
+    { "category": "Wrap (Veg)", "name": "Falafel Wrap", "price": 120.0 },
+
+    { "category": "Wrap (Non Veg)", "name": "Egg Wrap", "price": 80.0 },
+    { "category": "Wrap (Non Veg)", "name": "Grilled Chicken Wrap", "price": 130.0 },
+    { "category": "Wrap (Non Veg)", "name": "BBQ Chicken Wrap", "price": 130.0 },
+    { "category": "Wrap (Non Veg)", "name": "Spicy Chicken Wrap", "price": 140.0 },
+
+    { "category": "Rice Bowls", "name": "Paneer Makhni Bowl", "price": 180.0 },
+    { "category": "Rice Bowls", "name": "Chicken Makhni Bowl", "price": 220.0 },
+
+    { "category": "Salads (Veg)", "name": "Aloo Tikki Salad", "price": 120.0 },
+    { "category": "Salads (Veg)", "name": "Toasted Paneer Salad", "price": 130.0 },
+    { "category": "Salads (Veg)", "name": "Crispy Veggie Salad", "price": 140.0 },
+    { "category": "Salads (Veg)", "name": "Thai Paneer Salad", "price": 140.0 },
+    { "category": "Salads (Veg)", "name": "Falafel Salad", "price": 150.0 },
+    { "category": "Salads (Veg)", "name": "Creamy Fruit Salad", "price": 160.0 },
+
+    { "category": "Salads (Non Veg)", "name": "Chicken Seekh Kebab Salad", "price": 150.0 },
+    { "category": "Salads (Non Veg)", "name": "Chicken Tikka Salad", "price": 160.0 },
+    { "category": "Salads (Non Veg)", "name": "Thai Chicken Salad", "price": 170.0 },
+    { "category": "Salads (Non Veg)", "name": "Chicken Tikka & Egg Salad", "price": 180.0 },
+
+    { "category": "Nachos (Veg)", "name": "Nachos & Dip", "price": 70.0 },
+    { "category": "Nachos (Veg)", "name": "Crispy Veg Nachos", "price": 100.0 },
+    { "category": "Nachos (Veg)", "name": "Cheesy Loaded Nachos", "price": 130.0 },
+
+    { "category": "Nachos (Non Veg)", "name": "Chicken Nachos", "price": 120.0 },
+    { "category": "Nachos (Non Veg)", "name": "Crispy Chicken Loaded Nachos", "price": 140.0 },
+
+    { "category": "Garlic Breads", "name": "Butter Garlic Bread", "price": 40.0 },
+    { "category": "Garlic Breads", "name": "Corn Garlic Bread", "price": 50.0 },
+    { "category": "Garlic Breads", "name": "Cheese Veggie Garlic Bread", "price": 60.0 },
+    { "category": "Garlic Breads", "name": "Chicken Tikka Garlic Bread", "price": 70.0 },
+
+    { "category": "Pasta", "name": "White Sauce Pasta", "price": 110.0 },
+    { "category": "Pasta", "name": "Red Sauce Pasta", "price": 120.0 },
+    { "category": "Pasta", "name": "Mixed Sauce Pasta", "price": 130.0 },
+
+    { "category": "Maggi", "name": "Ghar Wali Maggi", "price": 45.0 },
+    { "category": "Maggi", "name": "Tadka Crave Maggi", "price": 70.0 },
+    { "category": "Maggi", "name": "Chicken Special Maggi", "price": 110.0 },
+
+    { "category": "Sides (Veg)", "name": "Bhel Puri", "price": 50.0 },
+    { "category": "Sides (Veg)", "name": "Sweet Corn Chat", "price": 50.0 },
+    { "category": "Sides (Veg)", "name": "Potato Shot", "price": 60.0 },
+    { "category": "Sides (Veg)", "name": "Cheese Balls", "price": 70.0 },
+
+    { "category": "Sides (Non Veg)", "name": "Egg Whites Chat", "price": 60.0 },
+    { "category": "Sides (Non Veg)", "name": "Chicken Wings", "price": 150.0 },
+
+    { "category": "Subwich (Veg)", "name": "Veggie Delight Sub", "price": 90.0 },
+    { "category": "Subwich (Veg)", "name": "Aloo Tikki Sub", "price": 100.0 },
+    { "category": "Subwich (Veg)", "name": "Paneer Tikka Sub", "price": 130.0 },
+    { "category": "Subwich (Veg)", "name": "Falafel Sub", "price": 140.0 },
+    { "category": "Subwich (Veg)", "name": "Spicy Paneer Sub", "price": 140.0 },
+
+    { "category": "Subwich (Non-Veg)", "name": "BBQ Chicken Sub", "price": 140.0 },
+    { "category": "Subwich (Non-Veg)", "name": "Chicken Tikka Sub", "price": 140.0 },
+    { "category": "Subwich (Non-Veg)", "name": "Tandoori Chicken Sub", "price": 150.0 },
+    { "category": "Subwich (Non-Veg)", "name": "Spicy Chicken Sub", "price": 160.0 },
+
+    { "category": "Dimsums", "name": "Veg Dimsum with Gravy", "price": 120.0 },
+    { "category": "Dimsums", "name": "Chicken Dimsum with Gravy", "price": 140.0 },
+
+    { "category": "Dessert", "name": "Brownie with Choco Ice Cream", "price": 120.0 },
+
+    { "category": "Toasties", "name": "Butter Garlic Toastie", "price": 90.0 },
+    { "category": "Toasties", "name": "Corn Garlic Toastie", "price": 100.0 },
+    { "category": "Toasties", "name": "Cheese Veggie Toastie", "price": 120.0 },
+    { "category": "Toasties", "name": "Paneer Tikka Toastie", "price": 130.0 },
+
+    { "category": "Shakes", "name": "Butterscoth Shake", "price": 110.0 },
+    { "category": "Shakes", "name": "Strawberry Shake", "price": 110.0 },
+    { "category": "Shakes", "name": "Black Currant Shake", "price": 110.0 },
+    { "category": "Shakes", "name": "Blueberry Shake", "price": 110.0 },
+    { "category": "Shakes", "name": "Chocolate Cookie Shake", "price": 120.0 },
+    { "category": "Shakes", "name": "Oreo Shake", "price": 120.0 },
+    { "category": "Shakes", "name": "Kitkat Shake", "price": 130.0 },
+    { "category": "Shakes", "name": "Biscoff Cheesecake Shake", "price": 140.0 },
+    { "category": "Shakes", "name": "Mud Paradise Shake", "price": 150.0 },
+
+    { "category": "Chai", "name": "Black Tea", "price": 20.0 },
+    { "category": "Chai", "name": "Cutting Chai", "price": 25.0 },
+    { "category": "Chai", "name": "Ishqiya Chai", "price": 30.0 },
+    { "category": "Chai", "name": "Dudh Patti Chai", "price": 40.0 },
+    { "category": "Chai", "name": "Green Tea", "price": 35.0 },
+    { "category": "Chai", "name": "Masala Chai", "price": 40.0 },
+    { "category": "Chai", "name": "Honey Lemon Green Tea", "price": 45.0 },
+
+    { "category": "Toast", "name": "Aloo Toast", "price": 45.0 },
+    { "category": "Toast", "name": "Bread Jam Toast", "price": 40.0 },
+    { "category": "Toast", "name": "Paneer Toast", "price": 55.0 },
+    { "category": "Toast", "name": "Peanut Butter Toast", "price": 60.0 },
+    { "category": "Toast", "name": "French Egg Toast", "price": 50.0 },
+
+    { "category": "Ice Tea", "name": "Lemon Ice Tea", "price": 80.0 },
+    { "category": "Ice Tea", "name": "Peach Ice Tea", "price": 80.0 },
+
+    { "category": "Hot Coffee", "name": "Black Coffee", "price": 20.0 },
+    { "category": "Hot Coffee", "name": "Home Brew Coffee", "price": 30.0 },
+    { "category": "Hot Coffee", "name": "Hand Whisked Coffee", "price": 40.0 },
+
+    { "category": "Mocktails", "name": "Virgin Mojito", "price": 100.0 },
+    { "category": "Mocktails", "name": "Lemon Soda", "price": 100.0 },
+    { "category": "Mocktails", "name": "Watermelon Mojito", "price": 110.0 },
+    { "category": "Mocktails", "name": "Blue Ocean Mojito", "price": 110.0 },
+    { "category": "Mocktails", "name": "Spicy Mango Mojito", "price": 120.0 },
+
+    { "category": "Cold Coffee", "name": "Classic Cold Coffee", "price": 80.0 },
+    { "category": "Cold Coffee", "name": "Hazelnut Cold Coffee", "price": 110.0 },
+    { "category": "Cold Coffee", "name": "Caramel Cold Coffee", "price": 110.0 },
+    { "category": "Cold Coffee", "name": "The Crave Fusion", "price": 120.0 }
+  ]
+}

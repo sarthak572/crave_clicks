@@ -1,0 +1,1 @@
+"""CafePOS application package."""

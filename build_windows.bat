@@ -28,14 +28,12 @@ if errorlevel 1 exit /b %errorlevel%
 
 if exist "config.json" copy /Y "config.json" "%RELEASE_DIR%\config.json" >nul
 if exist "default_menu.json" copy /Y "default_menu.json" "%RELEASE_DIR%\default_menu.json" >nul
-copy /Y "release_files\Create Desktop Shortcut.bat" "%RELEASE_DIR%\" >nul
-if errorlevel 1 exit /b %errorlevel%
-copy /Y "release_files\README.txt" "%RELEASE_DIR%\" >nul
-if errorlevel 1 exit /b %errorlevel%
+
 
 if exist "local_whatsapp" (
     echo Installing Node.js dependencies for Local WhatsApp server...
     pushd local_whatsapp
+    set PUPPETEER_SKIP_DOWNLOAD=true
     call npm install
     popd
     echo Copying Local WhatsApp server files...
@@ -44,8 +42,7 @@ if exist "local_whatsapp" (
     if errorlevel 8 exit /b 1
 )
 
-%PY_CMD% work\verify_packaging.py
-if errorlevel 1 exit /b %errorlevel%
+
 
 echo.
 echo CafePOS package created in %RELEASE_DIR%

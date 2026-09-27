@@ -34,8 +34,12 @@ copy /Y "release_files\README.txt" "%RELEASE_DIR%\" >nul
 if errorlevel 1 exit /b %errorlevel%
 
 if exist "local_whatsapp" (
+    echo Installing Node.js dependencies for Local WhatsApp server...
+    pushd local_whatsapp
+    call npm install
+    popd
     echo Copying Local WhatsApp server files...
-    robocopy "local_whatsapp" "%RELEASE_DIR%\local_whatsapp" /E /XD ".wwebjs_auth" "test_auth" ".puppeteer_cache" /XF "debug.log" >nul
+    robocopy "local_whatsapp" "%RELEASE_DIR%\local_whatsapp" /E /XD ".wwebjs_auth" "test_auth" ".puppeteer_cache" "node_modules\.cache" /XF "debug.log" >nul
     rem robocopy uses its own exit codes: 0-7 mean success, 8+ means a real error.
     if errorlevel 8 exit /b 1
 )
